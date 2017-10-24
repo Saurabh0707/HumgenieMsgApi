@@ -8,9 +8,9 @@ This Project Involves messaging to anyone registered at Humgenie via Whatsapp.
 
 ## Whatsapp Messager
 
-1.Register with HumGenie.
-2.Get a User Key.
-3.Use that Key to send message via Whatsapp.
+1.Register with HumGenie.  
+2.Get a User Key.  
+3.Use that Key to send message via Whatsapp.  
 
 ## Acknowledgement
 
