@@ -1,6 +1,6 @@
 # HumGenieMsgGApi
 
-Humgenie is an organisation lead By Mr. Vishwas Verma.
+Humgenie is an organisation lead by Mr. Vishwas Verma.
 
 <http://humgenie.com/>
 
